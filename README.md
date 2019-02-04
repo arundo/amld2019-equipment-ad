@@ -22,6 +22,14 @@ We are currently not providing access to [Arundo Composer](https://docs.arundo.c
 therefore you won't be able to follow the second part of the tutorial and deploy models to
 [Arundo Fabric](https://docs.arundo.com/fabric/overview).
 
+
+## Data
+
+The data used in this workshop was extracted from the [Turbofan engine degradation simulation data set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) (dataset ID: "FD001"). 
+
+Reference: Saxena, A., Goebel, K., Simon, D. and Eklund, N., 2008, October. Damage propagation modeling for aircraft engine run-to-failure simulation. In Prognostics and Health Management, 2008. PHM 2008. International Conference on (pp. 1-9). IEEE.
+
+
 ## Questions? Suggestions?
 
 If you have any questions about the presented content or would like to suggest
